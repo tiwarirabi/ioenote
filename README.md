@@ -1,6 +1,6 @@
 # mvc-starter-php
 
-This is a mvc-starter for php and mysql database.
+This is a mvc-starter for php.
 
 ### Installation
 Clone this repo inside your htdocs folder
